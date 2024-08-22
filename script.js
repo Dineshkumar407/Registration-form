@@ -4,7 +4,7 @@ document.getElementById('registrationForm').addEventListener('submit', function(
     const FirstName = document.getElementById('FirstName').value;
     const LastName = document.getElementById('LastName').value;
     const Age = document.getElementById('Age').value;
-    const CollageName = document.getElementById('CollageName').value;
+    const City = document.getElementById('City').value;
     const ContactNumber = document.getElementById('ContactNumber').value;
     const email = document.getElementById('email').value;
     const errorMsg = document.getElementById('errorMsg');
